@@ -2,7 +2,7 @@
 
 Prosty backend w **Spring Boot**, który pobiera aktualne promocje i gazetki ze strony **blix.com/gazetki** dla wybranych sklepów. Projekt powstał w celach **edukacyjnych, niekomercyjnych** i jest wykorzystywany w aplikacji **Smart‑Cooking**.
 
-> ℹDane pochodzą z publicznie dostępnych stron blix.com. API służy wyłącznie do nauki i testów.
+> Dane pochodzą z publicznie dostępnych stron blix.com. API służy wyłącznie do nauki i testów.
 
 ---
 
